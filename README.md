@@ -1,16 +1,37 @@
-## Hi there 👋
+## YO~
 
-<!--
-**hanashinc/hanashinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HANASHIN
 
-Here are some ideas to get you started:
+Engineering student • Curious by default • Building things to understand them
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+«Questions before answers.»
+
+I'm an engineering student interested in the things that make the world work — from electrons and circuits to engines, computers and spacecraft.
+
+Currently exploring
+
+- ⚡ Electronics & electrical systems
+- 💻 Python & software development
+- 🚗 Automotive & motorsport technology
+- 🛰️ Space & aerospace
+- 🤖 AI / Machine Learning
+- 🔬 Physics & scientific research
+
+Building
+
+Attendance Planner
+A student-focused web application for planning attendance, subjects, schedules and absences before the semester gets chaotic.
+
+Python Learning Lab
+Small programs, experiments and projects documenting my journey with Python.
+
+Beyond code
+
+F1 • Space • Physics • Cars • Music • Writing • Engineering
+
+I like taking things apart — sometimes physically, sometimes conceptually — and figuring out why they work.
+
+---
+
+Earth is home. Space is next. 🚀
+
