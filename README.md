@@ -10,12 +10,12 @@ I'm an engineering student interested in the things that make the world work —
 
 ## Currently exploring
 
-- ⚡ Electronics & electrical systems
-- 💻 Python & software development
-- 🚗 Automotive & motorsport technology
-- 🛰️ Space & aerospace
-- 🤖 AI / Machine Learning
-- 🔬 Physics & scientific research
+-  Electronics & electrical systems
+-  Python & software development
+-  Automotive & motorsport technology
+-  Space & aerospace
+-  AI / Machine Learning
+-  Physics & scientific research
 
 ## Building
 
@@ -34,5 +34,8 @@ F1 • Space • Physics • Cars • Music • Writing • Engineering
 I like taking things apart — sometimes physically, sometimes conceptually — and figuring out **why** they work.
 
 ---
+
+Portfolio:
+https://hanashinc.github.io/Portfolio-/
 
 **Earth is home. Space is next.** 🚀
